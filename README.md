@@ -1,4 +1,4 @@
-# ultimate-templates
+# Ultimate Developer Templates
 
 ## Introduction
 The **ultimate-templates** repository is a collection of various developer-related template files that can be used as a starting point or quick reference. 
