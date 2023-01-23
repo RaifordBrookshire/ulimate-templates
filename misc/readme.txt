@@ -1,0 +1,1 @@
+Add misc and other templates here that do not justify a seperate folder.
